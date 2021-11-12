@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Icon and text for the tab -->
+    <title>NP Events</title>
+    <link rel="shortcut icon" href="pictures/newsicon.png" />
+    <!-- ------------------------- -->
+
+    <!-- Local and imported css stylesheets -->
+    <link rel="stylesheet" type="text/css" href="styles/styles.css" />
+    <!--<link rel="stylesheet" type="text/css" href="styles/scroll.css" />-->
+   <!-- <link rel="stylesheet" type="text/css" href="styles/animated-background.css" />-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css"
+    />
+    <!-- ------------------------- -->
+  </head>
+
+  <body>
+    <!--<header>
+      <div class="scroll-left">
+        <p>BREAKING EVENTS RELATING TO NATURE PARKS AND SERVICES!!!</p>
+      </div>
+    </header>-->
+
+    <section style="position: relative">
+      <h5 class="SET">NP<span> Events</span></h5>
+    </section>
+
+    <main class="button-container">
+      <p class="choose">Choose an event type to display:</p>
+      <div class="wrapper">
+        <button onclick="buttonHandler('sports')" class="b-plus b-sports">
+          Hike
+        </button>
+        <button
+          onclick="buttonHandler('entertainment')"
+          class="b-plus b-entertainment"
+        >
+         Guided Tour
+        </button>
+        <button
+          onclick="buttonHandler('technology')"
+          class="b-plus b-technology"
+        >
+          Talk
+        </button>
+        <button
+        onclick="buttonHandler('Other')"
+        class="b-plus b-other"
+      >
+        Other
+      </button>
+      </div>
+    </main>
+
+    <body class="search" action="">
+      <span class="search-text">Search within these types -></span>
+      <form class="search-bar" action="">
+        <input 
+        type="text" 
+        class="input" 
+        style="width: 20vw; margin-right: 50px;"
+        >
+        <input type="submit" value="Search" class="b-submit">
+      </form>
+      <div id="error-handle" class="error-handle"></div>
+      <div id="topic-image" style="position: relative; top: -10vh"></div>
+      <div class="box">
+    <!--    <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>-->
+      </div>
+    </body>
+
+    <main class="search-container" style="position: relative; top: -5vh">
+      <h3 class="topic-statement">
+        Corresponding Events
+        <span style="font-size: 12px"> (May take a few seconds to load)</span>
+      </h3>
+      <div id="news-container">
+        <ul class="news-list" style="background-color: rgb(241, 241, 241)">
+        </ul>
+      </div>
+    </main>
+
+   
+      </a>
+    </footer>
+
+    <!-- Javascript -->
+    <script src="main.js"></script>
+    <!-- ------------------------- -->
+  </body>
+</html>
