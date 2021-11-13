@@ -173,3 +173,11 @@ a.has_url {
 .b-other, body form .b-submit {
   background-color: #efefef;
 }
+
+.cam-description p{
+  display: none;
+}
+
+.cam-description p:first-of-type {
+  display: block;
+}
