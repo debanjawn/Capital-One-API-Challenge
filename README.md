@@ -3,6 +3,6 @@
 The purpose of this application is to display events from the NPS API,
 According to user submitted parameters:
 Event Type(eventType), Key Word(q),
-And also the avabiable webcams from user-selected National Parks.
+The available webcams from user-selected National Parks.
 
 *Webcam API endpoint fails to return images for majority of National Parks*
