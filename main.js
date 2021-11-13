@@ -60,7 +60,7 @@ function retrieve(e) {
 }
 
 function buttonHandler(topic) {
- // alert(topic); 
+ // alert(topic);
   apiData.eventType = 'eventType='+topic+'&';
  /* const sportKey = "eventType=Hike&";
   const eKey = "eventType=Guided Tour&";
