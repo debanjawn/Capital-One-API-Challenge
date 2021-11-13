@@ -1,5 +1,10 @@
 body {
   background-color: rgb(186, 236, 190);
+  font-family: 'Lora', serif;
+}
+
+h5 {
+  text-align: center;
 }
 
 #content {
@@ -62,14 +67,15 @@ div {
   top: -12vh;
   color: rgb(10,43,100);
   color: #342700;
-  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+ /* font-family: Arial, Helvetica, sans-serif;*/
   font-size: 90px;
   font-weight: bold;
   font-style: oblique;
 }.SET span{
   position: relative;
   color: black;
-  font-family: "Times New Roman", Times, serif;
+ /* font-family: "Times New Roman", Times, serif;*/
   font-size: 60px;
   font-style: normal;
   font-weight: 600;
@@ -99,6 +105,7 @@ div {
   box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
   transform: translateY(-0.25em);
 }
+/*
 .b-sports {
   background-color: rgb(226, 100, 100);
   left: 50px;
@@ -117,7 +124,7 @@ div {
 }
 .b-technology:active {
   background-color: rgb(99,189,154);
-}
+} */
 .wrapper {
   width: 80%;
   height: 150px;
@@ -180,4 +187,13 @@ a.has_url {
 
 .cam-description p:first-of-type {
   display: block;
+}
+
+html body div button {
+  box-shadow: 5px 10px 18px #888888;
+  border-radius: 45px;
+}
+
+button.b-plus {
+  background-color: #fff;
 }
