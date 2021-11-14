@@ -40,7 +40,7 @@ h5 {
   z-index: 1;
 }
 div {
-/*  background-color: white;*/
+
 }
 .news-container {
   position: relative;
@@ -68,14 +68,14 @@ div {
   color: rgb(10,43,100);
   color: #342700;
   color: black;
- /* font-family: Arial, Helvetica, sans-serif;*/
+ 
   font-size: 90px;
   font-weight: bold;
   font-style: oblique;
 }.SET span{
   position: relative;
   color: black;
- /* font-family: "Times New Roman", Times, serif;*/
+ 
   font-size: 60px;
   font-style: normal;
   font-weight: 600;
@@ -105,40 +105,16 @@ div {
   box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
   transform: translateY(-0.25em);
 }
-/*
-.b-sports {
-  background-color: rgb(226, 100, 100);
-  left: 50px;
-}
-.b-sports:active {
-  background-color: rgb(219, 0, 0);
-}
-.b-entertainment {
-  background-color: rgb(168,199,232);
-}
-.b-entertainment:active {
-  background-color: rgb(109,146,199);
-}
-.b-technology {
-  background-color: rgb(181,220,202);
-}
-.b-technology:active {
-  background-color: rgb(99,189,154);
-} */
+
 .wrapper {
   width: 80%;
   height: 150px;
   margin: 0 7.5vw;
-  /* border: 1px solid black; */
+  
   display: flex;
   align-items: center;
   justify-content: center;
-}/*
-.search-container {
-  border-radius: 15px;
-  border: 1px solid rgb(97,97,97);
-  background-color: rgb(241,241,241);
-}*/
+}
 a:hover, a:link, a:active
 {
   text-decoration: none;
