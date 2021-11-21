@@ -31,7 +31,8 @@ Submissions will be graded on the following criteria:
 - Code Quality & Clarity
 - Creativity / Aesthetics (think UI/UX)
 
-# Submission [When Site first loads](https://user-images.githubusercontent.com/84740209/142746260-284c451c-834f-491c-bc1d-b71d027da078.png)
+# Submission 
+![When Site first loads](https://user-images.githubusercontent.com/84740209/142746351-0bdb9776-da70-4464-9258-eea9dd5a7c49.png)
 
 - When the website first loads up there is only one box, one search bar, and two rows of buttons
 
