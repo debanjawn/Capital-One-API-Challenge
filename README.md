@@ -9,6 +9,12 @@ The available webcams from user-selected National Parks.
 *Webcam API endpoint fails to return images for majority of National Parks*
 
 
+# Assignment Background
+For the last 100 years, the National Park Service has contributed greatly to the preservation and management of America's national parks, as well as many of its national monuments. More than 330 million people visit the 61 national parks they oversee each year, with 40 million overnight campers. 
+
+We want your help keeping those visitors informed, educated, and safe as they enjoy the parks. Using the National Park Service API, as well as any other public APIs you need, build a deployable web app that will allow users to have the best National Park experience possible with an intuitive, easy to navigate interface.
+
+
 # Assignment 
 Build a web application that can do the following:
 
