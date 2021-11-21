@@ -30,3 +30,18 @@ Submissions will be graded on the following criteria:
 - Meets Deliverables
 - Code Quality & Clarity
 - Creativity / Aesthetics (think UI/UX)
+
+First Picture![When Site first loads](https://user-images.githubusercontent.com/84740209/142746260-284c451c-834f-491c-bc1d-b71d027da078.png)
+
+- When the website first loads up there is only one box, one search bar, and two rows of buttons
+
+Events/ Activities![After selecting event type](https://user-images.githubusercontent.com/84740209/142746288-00fcafa0-cb06-4e0e-a38e-ad483c0806a7.png)
+
+- First user must click on Event Type(Top Row of Buttons), the already open box will display the events/activities related to that event type along with Date start and some results even contain pictures
+- User can use search bar to narrow down results, after choosing event type the user may type in relevant keyword to eliminate irrelevant results
+
+Webcam ![After choosing webcam park](https://user-images.githubusercontent.com/84740209/142746295-06ec485a-897f-4e9c-898f-1436bea1ec0f.png)
+
+- If user wants to use webcam then user has to click on what park(Bottom Row of Buttons)another box will pop open and show options for webcams for that specific park
+- User may click one of the results to be redirected to a live feed of that webcam![Redirected webcam link](https://user-images.githubusercontent.com/84740209/142746316-054f98a4-e96c-4d51-a35c-dd7d5daff8be.png)
+
