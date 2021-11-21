@@ -1,5 +1,6 @@
 # Capital-One-API-Challenge
 UTILIZED - JavaScript, HTML, CSS, NPS API and Git
+
 The purpose of this application is to display events from the NPS API,
 According to user submitted parameters:
 Event Type(eventType), Key Word(q),
